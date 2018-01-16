@@ -2,4 +2,4 @@
 # 
 # Holding page for my portfolio site.
 #
-#Using HTML, CSS and JS.
+# Using HTML, CSS and JS.
