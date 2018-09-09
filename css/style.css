@@ -2,6 +2,7 @@
  the background image to cover the whole page */
 body, html {
     height: 100%;
+    margin: 0;
 }
 
 .bgimg {
@@ -49,6 +50,15 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+}
+
+h1 {
+    transition: all 1s;
+}
+
+h1:hover {
+    transform: scale(1.1);
+    cursor: pointer;
 }
 
 /* Style the <hr> element */
