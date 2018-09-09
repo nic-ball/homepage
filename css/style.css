@@ -61,6 +61,10 @@ h1:hover {
     cursor: pointer;
 }
 
+p:hover {
+    cursor: none;
+}
+
 /* Style the <hr> element */
 hr {
     margin: auto;
