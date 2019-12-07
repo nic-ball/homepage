@@ -1,7 +1,7 @@
 # Homepage
 
-## Holding page for my portfolio site.
-#
+## Holding page for my **_portfolio_** site.
+
 
 Using `HTML`, `CSS` and `JS` for the holding page.
 
