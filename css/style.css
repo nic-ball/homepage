@@ -5,7 +5,7 @@ body, html {
     margin: 0;
 }
 
-.bgimg {
+.bg-img {
     /* Background image */
     background-image: url(../media/images/homepagebgimg.jpg);
     background-repeat: no-repeat;
@@ -30,14 +30,14 @@ body, html {
 }
 
 /* Position the logo/text in the top left corner */
-.topleft {
+.top-left {
     position: absolute;
     top: 0%;
     left: 16px;
 }
 
 /* Position text in the bottom-left corner */
-.bottomleft {
+.bottom-left {
     position: absolute;
     bottom: 0;
     left: 16px;
