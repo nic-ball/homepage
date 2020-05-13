@@ -5,4 +5,4 @@
 
 Using `HTML`, `CSS` and `JS` for the holding page.
 
-Will be adding some `Python` for the back-end of the portfolio proper. 
+Will be building the portfolio proper using `React`, `Nodejs` and `Express`. 
